@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from '../components/Title';
-import DogyDog from './img/dog.jpg';
+import DogyDog from './img/dog.png';
 
 import {
   AiFillSmile,
