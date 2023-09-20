@@ -9,7 +9,7 @@ P03 Show a photo and use icons like a hart. Click hart icon to line the photo.
     Counter likes will change.
     Doubleclick on photo to dislike. Counter will decrease.
 P03-2 2. Card design We build the card and style it. 
-P03-3 3. Install and use React Icons to the project
+P03-3 3. Install and use React Icons to the project and import img
          npm install react-icons
 
 
