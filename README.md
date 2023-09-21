@@ -12,5 +12,12 @@ P03-2 2. Card design We build the card and style it.
 P03-3 3. Install and use React Icons to the project and import img
          npm install react-icons
 
+P04 Testimonials App useEffect gets dummy data from https://jsonplaceholder.typicode.com/
+    The useEffect is only runned when the state of [testimonials] is changed.
+
+
+
+
+
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-d4lkns)
