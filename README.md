@@ -19,8 +19,6 @@ P05 Alerts.
 Differnt alerts that you can click to close. One off the alerts will close after 1 secs.
 We will use : useState and useEffect
 
-P06 Temperature controller using useState
-When temperature is >0 then bg color changes
-Increase and decrease when clicking button. setTemperature will be new value for temperature.
+
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-d4lkns)

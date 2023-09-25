@@ -5,8 +5,7 @@ import './App.css';
 // import RandomizeColors from "./projects/02-randomize-colors/RandomizeColors";
 // import LikePhotoApp from "./projects/03-like-my-photo/LikePhotoApp";
 // import TestimonialsApp from "./projects/04-testimonials-app/TestimonialsApp";
-// import AlertApp from './projects/05-Alerts/AlertApp';
-import TemperatureControllerApp from './projects/06-temperature-controller-app/TemperatureControllerApp';
+import AlertApp from './projects/05-Alerts/AlertApp';
 
 function App() {
   return (
@@ -15,8 +14,7 @@ function App() {
       {/* <RandomizeColors /> */}
       {/* <LikePhotoApp/> */}
       {/* <TestimonialsApp /> */}
-      {/* <AlertApp /> */}
-      <TemperatureControllerApp />
+      <AlertApp />
     </div>
   );
 }
